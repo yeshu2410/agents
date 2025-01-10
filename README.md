@@ -1,6 +1,6 @@
 ## Agent README
 
-What is an Agent?
+# What is an Agent?
 
 An agent is a software program or entity designed to perform tasks or make decisions on behalf of a user or system. Agents are typically powered by artificial intelligence (AI) and are capable of automating tasks, interacting with environments, and making decisions based on the data they receive.
 
